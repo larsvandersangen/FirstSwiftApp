@@ -14,6 +14,7 @@
 		97733AD221EE71DE00BC0826 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97733AD021EE71DE00BC0826 /* LaunchScreen.storyboard */; };
 		97733ADD21EE71DE00BC0826 /* FirstAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97733ADC21EE71DE00BC0826 /* FirstAppTests.swift */; };
 		97733AE821EE71DE00BC0826 /* FirstAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97733AE721EE71DE00BC0826 /* FirstAppUITests.swift */; };
+		97733AF621EE896100BC0826 /* cropped-gimp-transparant.png in Resources */ = {isa = PBXBuildFile; fileRef = 97733AF521EE896100BC0826 /* cropped-gimp-transparant.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		97733AE321EE71DE00BC0826 /* FirstAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FirstAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		97733AE721EE71DE00BC0826 /* FirstAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstAppUITests.swift; sourceTree = "<group>"; };
 		97733AE921EE71DE00BC0826 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		97733AF521EE896100BC0826 /* cropped-gimp-transparant.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "cropped-gimp-transparant.png"; path = "../../../../Dropbox/Photos/Foto's/Nicole en Ik/cropped-gimp-transparant.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				97733AC921EE71DD00BC0826 /* ViewController.swift */,
 				97733ACB21EE71DD00BC0826 /* Main.storyboard */,
 				97733ACE21EE71DE00BC0826 /* Assets.xcassets */,
+				97733AF521EE896100BC0826 /* cropped-gimp-transparant.png */,
 				97733AD021EE71DE00BC0826 /* LaunchScreen.storyboard */,
 				97733AD321EE71DE00BC0826 /* Info.plist */,
 			);
@@ -229,6 +232,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				97733AD221EE71DE00BC0826 /* LaunchScreen.storyboard in Resources */,
+				97733AF621EE896100BC0826 /* cropped-gimp-transparant.png in Resources */,
 				97733ACF21EE71DE00BC0826 /* Assets.xcassets in Resources */,
 				97733ACD21EE71DD00BC0826 /* Main.storyboard in Resources */,
 			);
